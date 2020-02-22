@@ -3,7 +3,7 @@
 ## Assignment 5:
 
 ### Code 1- BASIC SKELETON
-* Link -> 
+* Link -> [https://github.com/shreyaagrawal0809/TSAI-EVA4/blob/master/s5/Model_S501.ipynb]
 
 #### Target:
 * Get the basic skeleton right
@@ -19,7 +19,7 @@
 
 
 ### Code 2- LIGHTER MODEL
-* Link -> 
+* Link -> [https://github.com/shreyaagrawal0809/TSAI-EVA4/blob/master/s5/Model_S502.ipynb]
 
 #### Target:
 * Make the model Lighter by reducing the number of parameter. 
@@ -35,7 +35,7 @@
 
 
 ### Code 3- BatchNorm and DropOut MODEL
-* Link -> 
+* Link -> [https://github.com/shreyaagrawal0809/TSAI-EVA4/blob/master/s5/Model_S503.ipynb]
 
 #### Target:
 * Use BatchNorm to increase the efficiency
@@ -52,7 +52,7 @@
 
 
 ### Code 4- GAP MODEL
-* Link -> 
+* Link -> [https://github.com/shreyaagrawal0809/TSAI-EVA4/blob/master/s5/Model_S504.ipynb]
 
 #### Target:
 * Add GAP and remove the last BIG kernel.
@@ -67,7 +67,7 @@
 * Since we have reduced model capacity, reduction in performance is expected
 
 ### #Code 5- Image Augmentation and LR Schedular MODEL
-* Link -> 
+* Link -> [https://github.com/shreyaagrawal0809/TSAI-EVA4/blob/master/s5/Model_S505.ipynb]
 
 #### Target:
 * Apply Image augmentation (transforms.RandomRotation())
